@@ -6,5 +6,6 @@ siete y tres en el código.
 
 let siete = 7;
 let tres = "3";
+console.log (typeof tres);
 console.log(siete + tres);
 // Tu código va aquí
