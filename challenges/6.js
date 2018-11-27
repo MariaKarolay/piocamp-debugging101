@@ -5,10 +5,10 @@ el valor apropiado al resultado.
 */
 
 let x = 7;
-let y = 9;
+let y = 7;
 let result = "to come";
 
-if(x = y) {
+if(x == y) {
   result = "Equal!";
 } else {
   result = "Not equal!";
